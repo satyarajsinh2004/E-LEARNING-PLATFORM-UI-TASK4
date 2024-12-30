@@ -70,6 +70,15 @@ The E-Learning Platform UI developed with HTML, CSS, and JavaScript offers a dyn
 
 **OUTPUT** :
 
+![s1](https://github.com/user-attachments/assets/7905b9f7-dbcc-4b55-af80-e1f299d54660)
+![s2](https://github.com/user-attachments/assets/6cb9f20f-83a7-4c2a-8931-63521e4c7c84)
+![s3](https://github.com/user-attachments/assets/5c1f5c26-0e6f-4f47-ac11-e99c7453a7c1)
+![s4](https://github.com/user-attachments/assets/2b54decb-99b4-41ea-a16b-90586a5d7765)
+![s5](https://github.com/user-attachments/assets/1c7b244d-ffd8-4ec9-ba52-87c4d76fd5f8)
+![s6](https://github.com/user-attachments/assets/a330af94-1e3e-4e9e-8c03-0a2f6fc93704)
+![s8](https://github.com/user-attachments/assets/a1a91355-0e67-48d1-b0ef-2fd73d8f87b1)
+![s9](https://github.com/user-attachments/assets/60dd8554-00cd-44ed-9ca2-53e637f37f05)
+![s10](https://github.com/user-attachments/assets/c42b0fef-a474-41ae-9f90-938bbd329105)
 
 
 
